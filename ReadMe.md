@@ -121,4 +121,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Uses the [Sunrise-Sunset API](https://sunrise-sunset.org/) for time data.
 - Inspired by the need for seamless theme switching without Explorer restarts.
 
+⭐ Star the repo if it helps! Contributions welcome via pull requests. Questions? [Open an issue](https://github.com/kshawkat/WindowsThemeSwitcher).
+
 
