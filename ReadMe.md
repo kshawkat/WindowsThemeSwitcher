@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-⭐ Star the repo if it helps! Contributions welcome via pull requests. Questions? [Open an issue](https://github.com/kshawkat/WindowsThemeSwitcher).
+⭐ Star the repo if it helps! Contributions welcome via pull requests. Questions? [Open an issue](https://github.com/kshawkat/WindowsThemeSwitcher/issues).
 
 
